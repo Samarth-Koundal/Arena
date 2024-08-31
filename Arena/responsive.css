@@ -1,0 +1,419 @@
+
+@media only screen and (max-width:567px){
+ 
+  .nav-item{
+    display: flex;
+    justify-content: center;
+    line-height: 2.5;
+  }
+
+  .nav-btn{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+.nav-btn button{
+  background: none;
+  color: #474444;
+  margin: 0px;
+}
+
+.nav-btn button:hover{
+background: none;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+  margin: 0px;
+}
+
+.Partner{
+  padding: 0px;
+  width: 100% ;
+  box-shadow: none;
+}
+
+.resources{
+  width: 100%;
+ padding: 0px;
+ box-shadow: none;
+}
+
+  .banner-text{
+    text-align: center;
+  }
+ 
+  .foot-items{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .banner-text h1 {
+    font-size:40px;
+   
+}
+
+.banner-text p {
+  padding: 0px;
+  font-size: 18px;
+  margin-bottom: 1.5rem;
+}
+
+.banner-btn button{
+width: 100%;
+margin-bottom: 25px;
+}
+
+.details h1 {
+  color: #f2ce16;
+  font-size: 26px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+
+.connection-head p{
+  margin-bottom: 30px;
+}
+
+.buyer-text h3 {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.buyers {
+  padding: 60px 0px;
+}
+
+.buyer-text p {
+  padding: 15px  0px;
+}
+
+.buyer-btn button{
+  margin-bottom: 20px;
+}
+
+.bpo-text p {
+  padding: 8px 0px;
+}
+
+.bpo-text h3 {
+  padding-top: 60px;
+  font-size: 32px;
+}
+
+.bpo {
+  background: #f2f6ec;
+  padding-bottom: 60px;
+}
+
+.technology-text h3 {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.technology-btn button{
+margin-bottom: 60px;
+}
+
+.technology {
+  background: #f2f6ec;
+  padding-bottom: 60px;
+}
+
+.solution {
+    padding: 45px 0px;
+}
+
+.solution-text h3{
+  font-size: 32px;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
+.news-text h1{
+  font-size: 38px;
+}
+
+.news-body{
+ margin-bottom: 30px;
+}
+
+.news{
+  padding: 30px 0px;
+}
+
+.foot-items {
+  flex-direction: column;
+}
+
+.meeting-text p{
+  font-size: 18px;
+}
+
+.meeting-btn{
+  text-align: start;
+  padding: 20px 0px;
+}
+
+.policy{
+  display: flex;
+  justify-content: left;
+}
+
+}
+
+@media only screen and (max-width:768px){
+  .nav-item{
+    display: flex;
+    justify-content: center;
+    line-height: 2.5;
+  }
+
+  .nav-btn button{
+    background: none;
+    color: #474444;
+    margin: 0px;
+  }
+  
+  .nav-btn button:hover{
+  background: none;
+  }
+  
+  .navbar-expand-lg .navbar-nav .dropdown-menu{
+    margin: 0px;
+  }
+  
+  .Partner{
+    padding: 0px;
+    width: 100%;
+    box-shadow: none;
+  }
+  
+  .resources{
+    width: 100%;
+   padding: 0px;
+   box-shadow: none;
+  }
+
+  .banner-text{
+    text-align: center;
+  }
+
+  .banner-btn button{
+    width: 100%;
+    margin-bottom: 25px;
+    }
+
+    .foot-items{
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .details h1 {
+      color: #f2ce16;
+      font-size: 26px;
+      font-weight: 600;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .buyer-text h3 {
+      font-size: 32px;
+      font-weight: 800;
+    }
+    
+    .buyers {
+      padding: 60px 0px;
+    }
+    
+    .buyer-text p {
+      padding: 15px  0px;
+    }
+    
+    .buyer-btn button{
+      margin-bottom: 20px;
+    }
+
+    .bpo-text p {
+      padding: 8px 0px;
+    }
+    
+    .bpo-text h3 {
+      padding-top: 60px;
+      font-size: 32px;
+    }
+    
+    .bpo {
+      background: #f2f6ec;
+      padding-bottom: 60px;
+    }
+
+    .technology-text h3 {
+      font-size: 32px;
+      font-weight: 800;
+    }
+    
+    .technology-btn button{
+    margin-bottom: 60px;
+    }
+    
+    .technology {
+      background: #f2f6ec;
+      padding-bottom: 60px;
+    }
+
+    .card h1 {
+      font-size: 39px;
+    }
+
+    .news-text h1{
+      font-size: 38px;
+    }
+    
+    .news-body{
+     margin-bottom: 30px;
+    }
+
+    .card{
+      margin-bottom: 20px;
+    }
+    
+    .news{
+      padding: 30px 0px;
+    }
+    
+    .foot-items {
+      flex-direction: column;
+    }
+    
+    .meeting-text p{
+      font-size: 18px;
+    }
+    
+    .meeting-btn{
+      text-align: start;
+      padding: 20px 0px;
+    }
+    
+    .policy{
+      display: flex;
+      justify-content: left;
+    }
+}
+
+
+
+
+@media only screen and (max-width:992px){
+  .main-header .navbar-collapse {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  left: 0;
+  background: #fff;
+  text-align: center;
+} 
+
+ .main-header .navbar-toggler{
+  display: flex;
+  flex-direction: column;
+  border: none;
+  padding: 4px 9px;
+  outline: none;
+  box-shadow: none;
+}
+
+.nav-item{
+  display: flex;
+  justify-content: center;
+  line-height: 2.5;
+}
+
+.nav-btn{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.nav-btn button{
+background: none;
+color: #474444;
+margin: 0px;
+}
+
+.nav-btn button:hover{
+background: none;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+  margin: 0px;
+  width: 100%;
+}
+
+.Partner{
+  padding: 0px;
+  width: 100%;
+  box-shadow: none;
+}
+
+.resources{
+  width: 100%;
+ padding: 0px;
+ box-shadow: none;
+}
+
+.banner-text h1 {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.banner-btn{
+  padding-bottom: 40px;
+}
+}
+
+@media only screen and (max-width:1199px){
+  .nav-item{
+    padding-right: 0px;
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-link {
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.nav-btn button {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.nav-btn a{
+  font-size: 14px;
+}
+
+.banner-text h1 {
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.banner-btn{
+  padding-bottom: 40px;
+}
+
+.Partner{
+  width:650px;
+}
+
+.resources{
+  width: 550px;
+ 
+}
+
+}
